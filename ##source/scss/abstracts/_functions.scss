@@ -1,0 +1,9 @@
+// Вместо функции lighten
+@function tint($color, $percentage) {
+	@return mix(white, $color, $percentage);
+ }
+
+ // Вместо функции Darken
+ @function shade($color, $percentage) {
+	@return mix(black, $color, $percentage);
+ }

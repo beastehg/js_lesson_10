@@ -1,0 +1,7 @@
+# Игнорировать каталог node_modules
+.vscode/
+node_modules/
+# \##source
+gulpfile.js
+package.json
+package-lock.json

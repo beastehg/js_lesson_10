@@ -1,0 +1,37 @@
+// ? Переменные цветов
+$black: #000;
+$white: #fff;
+
+// ? Цвета ссылок
+$link-color-base: #f06;
+$link-hover-color-base: #ff0;
+
+// ? Цвета для кнопок
+$btn-color: #006;
+$btn-hover-color: #008;
+$btn-background-color: #ff0;
+$btn-hover-background-color: #ff6;
+$btn-border-color: #f00;
+$btn-hover-border-color: #f06;
+
+// ? Цвета для форм
+$form-border-color: #f06;
+$form-focus-border-color: #f00;
+$form-placeholder-color: #ff6;
+
+
+// ? Основной размер и цвет текста, семейство шрифта и цвет фона для Body
+$font-size-base: 14px;
+$line-height-base: 1.57;
+$font-family-base: 'Roboto','Arial','Helvetica',sans-serif;
+$text-color-base: $black;
+$background-color-base: $white;
+$min-width-base: 320px;
+
+// ? Переменные font-size для заголовков
+$h1-font-size: 30px;
+$h2-font-size: 27px;
+$h3-font-size: 24px;
+$h4-font-size: 21px;
+$h5-font-size: 17px;
+$h6-font-size: 15px;
